@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "05995f19-f1f9-4ceb-ac3e-78ec415770b3",
+        "name": "Green Houston Shark",
+        "domain": "greenhoustonshark.com",
+        "url": "http://www.greenhoustonshark.com",
+        "email": "greenhoustonshark@example.com",
+        "vatNumber": 39143585,
+        "employees": []
+    },
+    {
+        "_id": "fdee8ab9-7292-4fe1-8b5f-1818a6ecb93d",
+        "name": "Pink San Diego Snake",
+        "domain": "pinksandiegosnake.com",
+        "url": "http://www.pinksandiegosnake.com",
+        "email": "pinksandiegosnake@example.com",
+        "vatNumber": 87408991,
+        "employees": []
+    },
+    {
+        "_id": "f8b4d55a-9565-47d6-8be3-b62b04f6e0fa",
+        "name": "Orange Houston Shark",
+        "domain": "orangehoustonshark.com",
+        "url": "http://www.orangehoustonshark.com",
+        "email": "orangehoustonshark@example.com",
+        "vatNumber": 49506697,
+        "employees": []
+    },
+    {
+        "_id": "59135531-4fbd-4c5f-8ae9-6e9fa5c17d7f",
+        "name": "White San Antonio Wolf",
+        "domain": "whitesanantoniowolf.com",
+        "url": "http://www.whitesanantoniowolf.com",
+        "email": "whitesanantoniowolf@example.com",
+        "vatNumber": 26561164,
+        "employees": []
+    },
+    {
+        "_id": "f246e005-f740-4896-896b-2ab6b76d314a",
+        "name": "Purple Phoenix Eagle",
+        "domain": "purplephoenixeagle.com",
+        "url": "http://www.purplephoenixeagle.com",
+        "email": "purplephoenixeagle@example.com",
+        "vatNumber": 47424736,
+        "employees": []
+    },
+    {
+        "_id": "8661eef9-1c81-41b1-915f-3a6fcf75489d",
+        "name": "Yellow Philadelphia Elephant",
+        "domain": "yellowphiladelphiaelephant.com",
+        "url": "http://www.yellowphiladelphiaelephant.com",
+        "email": "yellowphiladelphiaelephant@example.com",
+        "vatNumber": 16703952,
+        "employees": []
+    },
+    {
+        "_id": "b2e23d91-2a71-4a0b-918f-ed7b73e7db9f",
+        "name": "Green Dallas Giraffe",
+        "domain": "greendallasgiraffe.com",
+        "url": "http://www.greendallasgiraffe.com",
+        "email": "greendallasgiraffe@example.com",
+        "vatNumber": 96964440,
+        "employees": []
+    },
+    {
+        "_id": "e116cab5-e8ca-4d05-89a8-71198a2501e1",
+        "name": "White Dallas Shark",
+        "domain": "whitedallasshark.com",
+        "url": "http://www.whitedallasshark.com",
+        "email": "whitedallasshark@example.com",
+        "vatNumber": 77594619,
+        "employees": []
+    },
+    {
+        "_id": "15afd866-b245-4fe8-9edf-92b1c467547d",
+        "name": "Orange San Antonio Fox",
+        "domain": "orangesanantoniofox.com",
+        "url": "http://www.orangesanantoniofox.com",
+        "email": "orangesanantoniofox@example.com",
+        "vatNumber": 25319587,
+        "employees": []
+    },
+    {
+        "_id": "de2af52f-48c9-4662-aacd-1bf3b660d0c0",
+        "name": "Green Philadelphia Zebra",
+        "domain": "greenphiladelphiazebra.com",
+        "url": "http://www.greenphiladelphiazebra.com",
+        "email": "greenphiladelphiazebra@example.com",
+        "vatNumber": 69787536,
+        "employees": []
+    }
+]
